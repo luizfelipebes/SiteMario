@@ -51,6 +51,7 @@ header{
 
 nav{
     padding-top: 20px;
+    flex-wrap: wrap;
 }
 nav a{
     line-height: 1.6pt;
@@ -164,7 +165,7 @@ div.video iframe{
 }
 .footer-1 p{
     padding: 2% 0% 0% 0%;
-    width: 500px;
+    width: 50%;
     margin: auto;
     font-size: 20px;
     font-weight: bold;
